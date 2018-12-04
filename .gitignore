@@ -1,0 +1,12 @@
+/target
+/.classpath
+/.project
+/.settings/*
+*.swp
+/bin
+/WebContent
+/logs
+/.idea/*
+.DS_Store
+/out
+*.iml
